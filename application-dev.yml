@@ -1,5 +1,5 @@
 server:
-  port: 5001
+  port: 3366
   
 description:
   context: This is a application.yml file
