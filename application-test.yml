@@ -1,5 +1,5 @@
 server:
-  port: 5002
+  port: 3355
   
 description:
   context: This is a application-test.yml file! version = 1
